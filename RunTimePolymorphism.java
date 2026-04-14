@@ -1,3 +1,4 @@
+// Run-time polymorphism
 class RunTimePolymorphism{
     public static void main(String[] args) {
         // Create references of parent type but objects of child type
